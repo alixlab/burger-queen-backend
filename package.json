@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "nodemon": "^1.19.1",
     "sequelize": "^5.8.12",
     "sequelize-cli": "^5.5.0",
